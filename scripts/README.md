@@ -2,7 +2,7 @@
 -----------------
 * using tmux is preferred it already installed in your env it makea everything smooth (optional)
 * run 'tmux new -t main' this will open a terminal within your dev cloud terminal (optional)
-* If not using tmux just simply open your dev cloud terminal 
+* If not using tmux just simply open your terminal 
 * run `pip install -r requirnments.txt`
 * Let's start training run `python train.py --model_name <any seq2seq type model e.g. Salesforce/codet5-base> --exp_name <any experiment name e.g. experiment_1>`
 * If you using tmux press ctrl+b and then d this will minimise your terminal
