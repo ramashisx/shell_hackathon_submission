@@ -1,4 +1,6 @@
-# This is code repository for my submission in Shell Hackathon to protect against cyber attack
+# Shell Hackathon to protect against cyber attack
+
+## (Winner Solution)
 
 ### How to use this repository to train model, generate result and do analysis
 ------------------------------------
